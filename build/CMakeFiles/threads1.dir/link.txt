@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/threads1.dir/threads1.cpp.o -o threads1  /usr/lib/x86_64-linux-gnu/libpthread.a 

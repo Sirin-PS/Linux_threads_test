@@ -1,0 +1,3 @@
+/home/darya/cxx_projects/threads_test/build/CMakeFiles/threads1.dir
+/home/darya/cxx_projects/threads_test/build/CMakeFiles/edit_cache.dir
+/home/darya/cxx_projects/threads_test/build/CMakeFiles/rebuild_cache.dir
